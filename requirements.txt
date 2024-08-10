@@ -37,7 +37,6 @@ httpx
 python-dotenv
 py-extract
 psutil
-git+https://github.com/Itz-fork/fake-useragent.git
 search_engine_parser
 future
 pytimeparse
